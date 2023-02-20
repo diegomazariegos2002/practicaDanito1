@@ -1,0 +1,1 @@
+{"input1":[{"Academy":true,"Gym":false,"Store":false},{"Academy":false,"Gym":true,"Store":false},{"Academy":true,"Gym":true,"Store":false},{"Academy":true,"Gym":false,"Store":false},{"Academy":true,"Gym":false,"Store":true}],"input2":["Academy","Gym","Store"]}
